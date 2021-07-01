@@ -1,4 +1,7 @@
-# Hi, I'm Sean (He/Him).
+# Hi, I'm Sean.
+
+## *University of Ottawa • 4th-Year Computer Science • He/Him* 
+<br>
 
 I'm a fourth-year Computer Science student currently enrolled at the University of Ottawa in Canada. Ever since I first learned to code in High School, I've been passionate about software development. I have experience with numerous programming languages and technologies, and am always eager to learn new skills! I am proficient at Full Stack development and have developed two Android applications.
 
