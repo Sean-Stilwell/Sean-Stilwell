@@ -6,6 +6,13 @@ I'm a fourth-year Computer Science student currently enrolled in an Honours Bach
 
 I'm fluently bilingual in English and French. Certified in French at the B2 level by the Ministry of Education of France. Achieved the University of Ottawa Second Language Certification in French.
 
+<h4>Some of my experience</h4>
+
+* [💻 Shared Services Canada](https://github.com/ssc-sp) - Currently work as a Data Solutions Intern since January 2022.
+* [🛰️ Canadian Space Agency](https://github.com/asc-csa) - Worked on analyzing [RADARSAT-1 imagery](https://github.com/asc-csa/radarsat1-scripts) and on the [Open Data Portal](https://github.com/asc-csa/ckanext-asc-csa) as a Data Scientist in Fall 2021.
+* [🏛️ House of Commons of Canada](https://www.ourcommons.ca/en) - Created a training website and project information site on the internal network as a Web Developer in Spring/Summer 2020.
+* [🌎 Global Affairs Canada](https://www.international.gc.ca/global-affairs-affaires-mondiales/home-accueil.aspx?lang=eng) - Tested a hiring platform for embassy staff and a tool for managing risks of grants and contributions as a QA Analyst in Spring/Summer 2019.
+
 <h4>Some of my work</h4>
 
 * [🎮 Lights Out!](https://play.google.com/store/apps/details?id=app.game.lightsout) - An Android game built with Java that's been downloaded over a thousand times on Google Play.
