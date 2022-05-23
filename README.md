@@ -21,8 +21,6 @@ I'm fluently bilingual in English and French. Certified in French at the B2 leve
 | **Frameworks/Platforms** | Tensorflow, PyTorch, React, Android | OpenCV, SciKit Learn, Git, .NET | Node.js |
 | **Databases** | PostgreSQL, mySQL, SQLite | MS SQL Server, Firebase | mongoDB |
 
-I'm fluently bilingual, having attained my DELF B2 certification from the Ministry of Education of France, as well as the Second Language Certification from the University of Ottawa. Bilingualism is important to me, I've helped promote French for clubs at uOttawa and uOttawa's French Immersion program for high school classes.
-
 <h4>Connect with me</h4>
 
 [![Website](https://img.shields.io/badge/website-8f001a.svg?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://seanstilwell.ca/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-stilwell/) [![Instagram](https://img.shields.io/badge/instagram-ff69b4.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theseanstilwell/) [![Email](https://img.shields.io/badge/email-ea4335.svg?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:sean@seanstilwell.ca)
