@@ -22,7 +22,7 @@ I'm fluently bilingual in English and French. Certified in French at the B2 leve
 
 <h4>My Skills</h4>
 
-|  | High | Medium | Low |
+| Experience | Advanced | Intermediate | Basic |
 | --------------- | --------------- | --------------- | ------------- |
 | **Programming Languages** | Python, Java, JS | C, C++, C#, Kotlin | Swift, Go |
 | **Frameworks/Platforms** | Tensorflow, PyTorch, React, Android | OpenCV, SciKit Learn, Git, .NET | Node.js |
