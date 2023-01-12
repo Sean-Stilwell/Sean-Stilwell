@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sean</h1>
 
-<h3 align="center">4th-year CS student from Ottawa </h3>
+<h3 align="center">Masters CS student from Ottawa </h3>
 
-I'm a fourth-year Computer Science student currently enrolled in an Honours Bachelor of Science at the University of Ottawa in Canada. I have a wide range of experience, ranging from data science to full-stack development.
+I'm a Computer Science student currently enrolled in an Master of Science at the University of Ottawa in Canada. I have a wide range of experience, ranging from data science to full-stack development.
 
 I'm fluently bilingual in English and French. Certified in French at the B2 level by the Ministry of Education of France. Achieved the University of Ottawa Second Language Certification in French.
 
