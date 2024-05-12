@@ -8,13 +8,13 @@ I am a software developer and researcher from Ottawa, Canada. My current work fo
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sean-Stilwell&theme=dracula&show_icons=true&hide_border=true" alt="Sean Stilwell's Github Stats" height="200"></img> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Stilwell&theme=dracula&hide_border=true" alt="Sean Stilwell's Most Used Languages" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sean-Stilwell&theme=slateorange&show_icons=true&hide_border=true" alt="Sean Stilwell's Github Stats" height="200"></img> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Stilwell&theme=slateorange&hide_border=true" alt="Sean Stilwell's Most Used Languages" height="200" />
 </div>
 
 ---
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sean-Stilwell&no-frame=true&no-bg=false&theme=dracula&row=1&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sean-Stilwell&no-frame=true&no-bg=true&theme=gitdimmed&row=1&margin-w=4)
 
 ## About Me
 
