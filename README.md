@@ -22,4 +22,4 @@ I have over three years experience in the Government of Canada. My current role 
 
 I am fluently bilingual at the CCC level on the Government of Canada Second Language Evaluation. I also hold the DELF B2 certification from the Ministry of Education of France and graduated with the French Immersion certificate at the University of Ottawa. I also have basic proficiency in German.
 
-![](https://github-profile-trophy.vercel.app/?username=Sean-Stilwell&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Sean-Stilwell&no-frame=true&no-bg=true&margin-w=4)
