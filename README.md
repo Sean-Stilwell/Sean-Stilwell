@@ -14,7 +14,7 @@ I am a software developer and researcher from Ottawa, Canada. My current work fo
 
 ---
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sean-Stilwell&no-frame=true&theme=gitdimmed&row=1&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sean-Stilwell&no-frame=true&row=1&margin-w=4)
 
 ## About Me
 
