@@ -16,8 +16,6 @@ I am a software developer and researcher from Ottawa, Canada. My current work fo
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sean-Stilwell&no-frame=true&no-bg=false&theme=dracula&row=1&margin-w=4)
 
----
-
 ## About Me
 
 I hold a masters degree in Computer Science from the University of Ottawa. My research focused on Natural Language Processing and Explainable AI (XAI). In my thesis, I applied XAI to a prompt learning system that I created for sentiment analysis on the IMDB dataset. In my undergraduate capstone project, I created a named entity recognition model for legal texts.
