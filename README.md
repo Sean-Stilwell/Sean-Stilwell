@@ -9,7 +9,7 @@ I am a software developer and researcher from Ottawa, Canada. My current work fo
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Sean-Stilwell&theme=slateorange&show_icons=true&hide_border=true" alt="Sean Stilwell's Github Stats" height="200"></img> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Stilwell&theme=slateorange&layout=compact&hide_border=true" alt="Sean Stilwell's Most Used Languages" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-Stilwell&theme=slateorange&hide_border=true" alt="Sean Stilwell's Most Used Languages" height="200" />
 </div>
 
 ---
