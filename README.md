@@ -4,6 +4,7 @@ I am a software developer and researcher from Ottawa, Canada. My current work fo
 
 - 🌐 Visit my [website](https://seanstilwell.ca/) for more information and to get in touch.
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sean-stilwell/).
+- 🏫 Visit my [old profile](https://uniweb.uottawa.ca/members/5964/profile) at the University of Ottawa.
 
 ---
 
